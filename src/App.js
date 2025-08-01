@@ -2,7 +2,7 @@ import { useState } from "react";
 import { FriendsList } from "./components/friendsList";
 import { Button } from "./components/button";
 import { FormAddFriend } from "./components/formAddFriend";
-import FormSplitBill from "./components/formSplitBill";
+import { FormSplitBill } from "./components/formSplitBill";
 
 const initialFriends = [
   {
