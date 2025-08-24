@@ -26,4 +26,4 @@ If your friend pays more, you owe your friend.
 
 📊 Dynamic Balances – View exactly who owes who in the friend list.
 
-### 🎈[Run](https://eat-n-split-hmai0w9v2.vercel.app/)
+### 🎈[Run](https://eat-n-split-neon.vercel.app/)
